@@ -1,0 +1,12 @@
+{
+  "name": "hyperledger-first-example",
+  "version": "0.0.1",
+  "description": "First example of a hyperledger fabric blockchain network",
+  "author": "Nils Lutz",
+  "scripts": {
+    "release": "standard-version -s"
+  },
+  "devDependencies": {
+    "standard-version": "^5.0.2"
+  }
+}
